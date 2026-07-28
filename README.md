@@ -276,5 +276,3 @@ This is a portfolio prototype and is deliberately clear about its boundaries:
 ## License
 
 MIT — see [LICENSE](LICENSE).
-#   s w a d e s h i  
- 
