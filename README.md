@@ -276,3 +276,9 @@ This is a portfolio prototype and is deliberately clear about its boundaries:
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Author:
+**Nazmus Sakib**
+- GitHub: [@Nazmussakib247](https://github.com/Nazmussakib247)
+- LinkedIn: [nazmussakib247](https://www.linkedin.com/in/nazmussakib247/)
+- Medium:
