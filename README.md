@@ -281,4 +281,4 @@ MIT — see [LICENSE](LICENSE).
 **Nazmus Sakib**
 - GitHub: [@Nazmussakib247](https://github.com/Nazmussakib247)
 - LinkedIn: [nazmussakib247](https://www.linkedin.com/in/nazmussakib247/)
-- Medium:
+- Medium: [Building Swadeshi: A Full-Stack Craft Storefront with React, Express, and SQLite](https://medium.com/@nazmussakib.cse.nubt/building-swadeshi-a-full-stack-craft-storefront-with-react-express-and-sqlite-9bde728f1205)
